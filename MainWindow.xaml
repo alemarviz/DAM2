@@ -14,6 +14,7 @@
 
     <StackPanel VerticalAlignment="Center">
         <TextBlock FontSize="25">DAM2 Interfaces</TextBlock>
-        <TextBlock FontSize="12">Marzo 2020</TextBlock>
+        <TextBlock FontSize="18">Marzo 2020</TextBlock>
+        <TextBlock>CMA LEON</TextBlock>
     </StackPanel>
 </Window>
