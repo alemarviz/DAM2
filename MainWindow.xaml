@@ -12,9 +12,9 @@
         </Style>
     </Window.Resources>
 
-    <StackPanel VerticalAlignment="Center">
-        <TextBlock FontSize="25">DAM2 Interfaces</TextBlock>
-        <TextBlock FontSize="18">Marzo 2020</TextBlock>
-        <TextBlock>CMA LEON</TextBlock>
-    </StackPanel>
+<StackPanel VerticalAlignment="Center">
+    <TextBlock FontSize="25">DAM 2 Interfaces</TextBlock>
+    <TextBlock FontSize="18">Marzo 2020</TextBlock>
+    <TextBlock>CMA LEON</TextBlock>
+</StackPanel>
 </Window>
